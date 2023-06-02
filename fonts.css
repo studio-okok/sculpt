@@ -1,0 +1,14 @@
+@font-face {
+  font-family: 'Aeonik Fono';
+  src: url('https://uploads-ssl.webflow.com/632953e55c9877656f222944/632954fd61fe6a01dbb51e9e_AeonikFono-Light.woff2') format('woff2'), url('https://uploads-ssl.webflow.com/632953e55c9877656f222944/632954fdc05215cc391fd7cb_AeonikFono-Light.woff') format('woff');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Gt Ultra Fine';
+  src: url('https://uploads-ssl.webflow.com/632953e55c9877656f222944/6329550c7290bd566bde0b5b_GT-Ultra-Fine-Thin.woff2') format('woff2'), url('https://uploads-ssl.webflow.com/632953e55c9877656f222944/6329550c2421a67a89c6b92a_GT-Ultra-Fine-Thin.woff') format('woff'), url('https://uploads-ssl.webflow.com/632953e55c9877656f222944/6329550c5c9877e8c7223851_GT-Ultra-Fine-Thin.ttf') format('truetype'), url('https://uploads-ssl.webflow.com/632953e55c9877656f222944/6329550c3a5352113c0774b3_GT-Ultra-Fine-Thin.otf') format('opentype');
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
